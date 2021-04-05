@@ -1,3 +1,3 @@
 # 孟古一的blog
-[漫谈舒适圈](/essay/漫谈舒适圈.md)
+[小短文](/essay/README.md)
 <br/>施工中
