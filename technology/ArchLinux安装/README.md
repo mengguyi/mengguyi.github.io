@@ -12,4 +12,4 @@ U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 
 2.刷写安装介质
 
-&ensp;&ensp;Linux  
+&ensp;&ensp;Linux
