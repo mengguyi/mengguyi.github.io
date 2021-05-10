@@ -9,3 +9,5 @@
 U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 
 1.到[https://www.archlinux.org/download](https://www.archlinux.org/download)下找到China的像源，并下载<code>archlinux-**-x86_64.iso</code>推荐bfsu.edu.cn
+
+2.刷写安装介质
