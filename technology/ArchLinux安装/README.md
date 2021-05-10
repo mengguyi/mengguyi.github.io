@@ -8,4 +8,4 @@
 
 U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 
-1.到https://www.archlinux.org/download/
+1.到[https://www.archlinux.org/download](https://www.archlinux.org/download)
