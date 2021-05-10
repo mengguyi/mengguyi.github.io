@@ -15,3 +15,5 @@ Nmap是一款针对大型网络的端口扫描工具，尽管它也适用于单�
 ip扫描前，可以先<code>ifconfig</code>看一下自己的ip段
 
 <code>nmap -sn 192.168.0.0/24(IP段)</code>扫描指定网段内所有IP地址(ping)
+
+<code>nmap -v -sV 192.168.0.0/24(IP段)</code>扫描指定网段内所有IP地址以及开放服务
