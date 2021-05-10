@@ -17,3 +17,9 @@ ip扫描前，可以先<code>ifconfig</code>看一下自己的ip段
 <code>nmap -sn 192.168.0.0/24(IP段)</code>扫描指定网段内所有IP地址(ping)
 
 <code>nmap -v -sV 192.168.0.0/24(IP段)</code>扫描指定网段内所有IP地址以及开放服务
+
+<code>nmap -v -iR 10000 -Pn -p 80</code>扫描开放指定端口(80)的IP
+
+## 端口扫描
+
+<code>nmap -sV 192.168.0.0</code>扫描IP下全部开放服务
