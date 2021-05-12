@@ -14,4 +14,4 @@ U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 
 &ensp;Linux:使用<code>dd</code>命令,教程:[https://www.runoob.com/linux/linux-comm-dd.html](https://www.runoob.com/linux/linux-comm-dd.html)
 
-&ensp;Windows:使用rufus官网:[https://rufus.ie/zh/](https://rufus.ie/zh/)
+&ensp;Windows:使用rufus制作安装介质，官网:[https://rufus.ie/zh/](https://rufus.ie/zh/)
