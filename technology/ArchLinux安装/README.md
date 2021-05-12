@@ -16,4 +16,4 @@ U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 
 &ensp;Windows:使用rufus制作安装介质，官网:[https://rufus.ie/zh/](https://rufus.ie/zh/)
 
-### 磁盘准备
+### 准备磁盘
