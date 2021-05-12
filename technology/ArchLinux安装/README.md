@@ -13,3 +13,5 @@ U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 2.刷写安装介质
 
 &ensp;Linux:使用<code>dd</code>命令,教程:[https://www.runoob.com/linux/linux-comm-dd.html](https://www.runoob.com/linux/linux-comm-dd.html)
+
+&ensp;Linux
