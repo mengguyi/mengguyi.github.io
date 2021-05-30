@@ -9,3 +9,5 @@
 ## [ctf日志web2](/logs/ctf/web2题解.md)
 
 ## [ctf日志web3](/logs/ctf/web3题解.md)
+
+## [ctf日志web4](/logs/ctf/web4题解.md)
