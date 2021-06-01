@@ -6,7 +6,7 @@
 
 发现有可能是flag的东西
 
-![图片](https://github.com/mgy-qyqf/mgy-qyqf.github.io/blob/main/logs/ctf/web5_1.png?raw=true)
+![图片](https://github.com/mgy-qyqf/mgy-qyqf.github.io/blob/main/logs/ctf/web6_1.png?raw=true)
 
 将文本转换为ASCII
 
