@@ -10,6 +10,6 @@
 
 将文本转换为ASCII
 
-Unicode编码转ASCII
+[Unicode编码转ASCII](http://tool.chinaz.com/tools/unicode.aspx)
 
 完成
