@@ -15,3 +15,5 @@
 ## [ctf日志web5](/logs/ctf/web5题解.md)
 
 ## [ctf日志web6](/logs/ctf/web6题解.md)
+
+## [ctf日志web7](/logs/ctf/web7题解.md)
