@@ -10,6 +10,6 @@
 
 禁用JavaScript
 
-[Unicode编码转ASCII](http://tool.chinaz.com/tools/unicode.aspx)
+在Firefox地址栏中输入<code>about:config</code>
 
 完成
