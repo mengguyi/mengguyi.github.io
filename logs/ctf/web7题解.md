@@ -14,6 +14,8 @@
 
 点击接受风险并继续
 
+在搜索地址栏中输入javascript.enabled
 
+点击右侧的切换按钮将<code>true</code>改为<code>false</code>
 
 完成
