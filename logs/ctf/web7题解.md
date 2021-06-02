@@ -18,4 +18,8 @@
 
 点击右侧的切换按钮将<code>true</code>改为<code>false</code>
 
+再进入ctf题目页面手动刷新，直到出现CTF@Harry标识
+
+按F12查看源代码找到flag
+
 完成
