@@ -22,4 +22,6 @@
 
 按F12查看源代码找到flag
 
+![图片](https://github.com/mgy-qyqf/mgy-qyqf.github.io/blob/main/logs/ctf/web6_1.png?raw=true)
+
 完成
