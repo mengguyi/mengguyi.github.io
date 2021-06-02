@@ -12,4 +12,8 @@
 
 在Firefox地址栏中输入<code>about:config</code>
 
+点击接受风险并继续
+
+
+
 完成
