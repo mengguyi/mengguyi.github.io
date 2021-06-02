@@ -1,1 +1,15 @@
+# web第七题
 
+这道题是禁用JavaScript即可解决
+
+按F12查看源代码
+
+发现页面不停刷新，根本看不了
+
+![图片](https://github.com/mgy-qyqf/mgy-qyqf.github.io/blob/main/logs/ctf/web6_1.png?raw=true)
+
+禁用JavaScript
+
+[Unicode编码转ASCII](http://tool.chinaz.com/tools/unicode.aspx)
+
+完成
