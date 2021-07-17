@@ -42,7 +42,7 @@ U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 
 ### 进入U盘下的Linux系统
 按上一步设置好启动顺序，启动之后会看到如下界面（UEFI启动方式的界面可能不同）：
-![图片：准备磁盘-Windows](https://github.com/mgy-qyqf/mgy-qyqf.github.io/blob/main/technology/ArchLinux%E5%AE%89%E8%A3%85/%E5%90%AF%E5%8A%A8%E7%95%8C%E9%9D%A2(uefi).png?raw=true)
+![图片：启动界面-Windows](https://github.com/mgy-qyqf/mgy-qyqf.github.io/blob/main/technology/ArchLinux%E5%AE%89%E8%A3%85/%E5%90%AF%E5%8A%A8%E7%95%8C%E9%9D%A2(uefi).png?raw=true)
 
 &ensp;&ensp;&ensp;&ensp;&ensp;如果直接进入<code>windows</code>，请检查启动顺序是否设置成功，U盘是否在制作启动介质时成功写入。
 
@@ -51,10 +51,10 @@ U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 &ensp;&ensp;&ensp;&ensp;&ensp;选择第一个选项。进入系统
 
 这时Arch开始加载，你将会看到屏幕显示如下内容：
-![图片：准备磁盘-Windows](https://github.com/mgy-qyqf/mgy-qyqf.github.io/blob/main/technology/ArchLinux%E5%AE%89%E8%A3%85/%E5%90%AF%E5%8A%A8%E4%B8%AD%E7%95%8C%E9%9D%A2(uefi).png?raw=true)
+![图片：启动中界面-Windows](https://github.com/mgy-qyqf/mgy-qyqf.github.io/blob/main/technology/ArchLinux%E5%AE%89%E8%A3%85/%E5%90%AF%E5%8A%A8%E4%B8%AD%E7%95%8C%E9%9D%A2(uefi).png?raw=true)
 
 加载完成后你将会进入一个有终端的界面：
-![图片：准备磁盘-Windows](https://github.com/mgy-qyqf/mgy-qyqf.github.io/blob/main/technology/ArchLinux%E5%AE%89%E8%A3%85/%E5%90%AF%E5%8A%A8%E5%AE%8C%E6%88%90(uefi).png?raw=true)
+![图片：启动完成-Windows](https://github.com/mgy-qyqf/mgy-qyqf.github.io/blob/main/technology/ArchLinux%E5%AE%89%E8%A3%85/%E5%90%AF%E5%8A%A8%E5%AE%8C%E6%88%90(uefi).png?raw=true)
 
 &ensp;&ensp;&ensp;&ensp;&ensp;如果出现FAIL或是其他错误信息导致无法启动请自行搜索错误信息来获得解决方法。
 
