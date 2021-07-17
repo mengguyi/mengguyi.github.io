@@ -22,4 +22,4 @@ U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 
 &ensp;&ensp;&ensp;&ensp;&ensp;<code>windows</code>下空出一块分区来安装：利用windows自带的磁盘管理工具就可以：
 
-
+![图片：准备磁盘-Windows](https://github.com/mgy-qyqf/mgy-qyqf.github.io/blob/main/?raw=true)
