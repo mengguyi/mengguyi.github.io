@@ -22,4 +22,4 @@ U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 
 &ensp;&ensp;&ensp;&ensp;&ensp;<code>windows</code>下空出一块分区来安装：利用windows自带的磁盘管理工具就可以：
 
-右击windows图标，在弹出菜单中选择磁盘管理（其他版本的windows请自行找到打开磁盘管理的方式）：
+
