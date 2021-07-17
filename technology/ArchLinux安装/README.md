@@ -27,3 +27,4 @@ U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 &ensp;&ensp;&ensp;&ensp;&ensp;<code>linux</code>下分出一块区域安装：使用<code>fdisk</code>进行，教程请见链接中的删除分区：
 
 
+
