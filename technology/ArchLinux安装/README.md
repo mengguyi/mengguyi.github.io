@@ -36,3 +36,5 @@ U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 这一步在不同品牌的电脑上都不一样，所以需要大家自行搜索自己电脑品牌+启动顺序这个关键词来进行设置。
 
 例如我的电脑搜索华为 启动顺序可以得到如下的结果：
+
+[http://www.xitongcheng.com/jiaocheng/xtazjc_article_50133.html](http://www.xitongcheng.com/jiaocheng/xtazjc_article_50133.html)
