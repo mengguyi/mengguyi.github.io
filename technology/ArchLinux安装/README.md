@@ -38,3 +38,5 @@ U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 例如我的电脑搜索华为 启动顺序可以得到如下的结果：
 
 [http://www.xitongcheng.com/jiaocheng/xtazjc_article_50133.html](http://www.xitongcheng.com/jiaocheng/xtazjc_article_50133.html)
+
+一般来说现在的主板都可以不用进入BIOS而快速地切换启动顺序，只要找到相应的快捷键就可以了。
