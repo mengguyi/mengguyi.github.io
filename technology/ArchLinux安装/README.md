@@ -24,4 +24,6 @@ U盘 光盘 网络启动 都可以，这里只讲述U盘安装方法
 
 ![图片：准备磁盘-Windows](https://github.com/mgy-qyqf/mgy-qyqf.github.io/blob/main/technology/ArchLinux%E5%AE%89%E8%A3%85/%E5%9B%BE%E7%89%87%EF%BC%9A%E5%87%86%E5%A4%87%E7%A3%81%E7%9B%98-Windows.png?raw=true)
 
-在linux下分出一块区域安装：使用fdisk进行，教程请见链接中的删除分区：
+&ensp;&ensp;&ensp;&ensp;&ensp;<code>linux</code>下分出一块区域安装：使用<code>fdisk</code>进行，教程请见链接中的删除分区：
+
+
