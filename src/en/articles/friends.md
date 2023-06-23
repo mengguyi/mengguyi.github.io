@@ -1,0 +1,18 @@
+---
+cover: /assets/images/cover4.avif
+title: Friendly link
+icon: fab fa-markdown
+order: 2
+category:
+  - Guide
+  - Friendly link
+  - Commemoration
+tag:
+  - Friends
+---
+
+Here are good friends of MengGuyi
+
+[![不断同学](https://media.cdn.461blog.cn/wp-content/uploads/2021/02/136aacdf4466a5_1_avatar.jpeg "不断同学" =90x)](https://www.461blog.cn/) [![Dim Aurora](https://www.gravatar.com/avatar/bc2b9b8ef2f566771bb757f97ab62707?s=128 "Dim Aurora" =90x)](https://www.dimaurora.com/)
+
+If you want to apply for a friend link Just add the information of this site to your site first, and then tell me in the comment section.
