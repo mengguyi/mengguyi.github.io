@@ -1,7 +1,7 @@
 ---
 cover: /assets/images/cover4.avif
 title: 友情链接
-icon: fab fa-markdown
+icon: lightbulb
 order: 2
 category:
   - 使用指南

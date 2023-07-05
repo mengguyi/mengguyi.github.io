@@ -8,4 +8,6 @@ category:
 
 ## 目录
 
+- [友情链接](friends.md)
 - [Hello World!](helloworld.md)
+- [GitLab 安装](GitLab-Install.md)

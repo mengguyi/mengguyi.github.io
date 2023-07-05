@@ -1,7 +1,7 @@
 ---
 cover: /assets/images/cover4.avif
 title: Friendly link
-icon: fab fa-markdown
+icon: lightbulb
 order: 2
 category:
   - Guide

@@ -8,4 +8,6 @@ category:
 
 ## Catalog
 
+- [Friendly link](friends.md)
 - [Hello World!](helloworld.md)
+- [GitLab Install](GitLab-Install.md)
