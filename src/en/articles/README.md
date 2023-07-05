@@ -10,4 +10,4 @@ category:
 
 - [Friendly link](friends.md)
 - [Hello World!](helloworld.md)
-- [GitLab install and cracking tutorial](GitLab-Install.md)
+- [GitLab EE 16 install and cracking tutorial](GitLab-Install.md)
