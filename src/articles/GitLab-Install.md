@@ -1,6 +1,6 @@
 ---
 cover: /assets/images/GitLab-Install-cover.avif
-title: GitLab 安装
+title: GitLab EE 16 安装破解教程
 icon: download
 order: 2
 category:

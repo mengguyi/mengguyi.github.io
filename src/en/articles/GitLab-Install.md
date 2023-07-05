@@ -1,6 +1,6 @@
 ---
 cover: /assets/images/GitLab-Install-cover.avif
-title: GitLab Install
+title: GitLab install and cracking tutorial
 icon: download
 order: 2
 category:

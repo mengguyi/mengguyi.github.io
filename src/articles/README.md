@@ -10,4 +10,4 @@ category:
 
 - [友情链接](friends.md)
 - [Hello World!](helloworld.md)
-- [GitLab 安装](GitLab-Install.md)
+- [GitLab EE 16 安装破解教程](GitLab-Install.md)

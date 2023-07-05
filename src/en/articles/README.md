@@ -10,4 +10,4 @@ category:
 
 - [Friendly link](friends.md)
 - [Hello World!](helloworld.md)
-- [GitLab Install](GitLab-Install.md)
+- [GitLab install and cracking tutorial](GitLab-Install.md)
