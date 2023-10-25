@@ -115,7 +115,7 @@ export default hopeTheme({
     comment: {
       // You should generate and use your own comment service
       provider: "Waline",
-      serverURL: "https://comment.mengguyi.com",
+      serverURL: "https://blog-comment.mengguyi.com",
     },
 
     // all features are enabled for demo, only preserve features you need here
