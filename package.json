@@ -2,18 +2,21 @@
   "name": "mengguyi-blog",
   "version": "1.0.0",
   "description": "MengGuyi's Blog",
-  "license": "CC BY-SA 4.0",
+  "license": "AGPL-3.0",
   "type": "module",
   "scripts": {
-    "docs:build": "vuepress build src",
-    "docs:clean-dev": "vuepress dev src --clean-cache",
-    "docs:dev": "vuepress dev src",
+    "docs:build": "vuepress-vite build src",
+    "docs:clean-dev": "vuepress-vite dev src --clean-cache",
+    "docs:dev": "vuepress-vite dev src",
     "docs:update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/client": "2.0.0-beta.63",
-    "vue": "^3.3.7",
-    "vuepress": "2.0.0-beta.63",
-    "vuepress-theme-hope": "2.0.0-beta.227"
+    "@vuepress/bundler-vite": "^2.0.0-rc.2",
+    "vue": "^3.4.15",
+    "vuepress": "2.0.0-rc.2",
+    "vuepress-theme-hope": "2.0.0-rc.15"
+  },
+  "dependencies": {
+    "@waline/client": "3.0.0-alpha.11"
   }
 }

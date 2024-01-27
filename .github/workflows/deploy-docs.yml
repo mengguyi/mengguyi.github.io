@@ -7,6 +7,9 @@ on:
       # 确保这是你正在使用的分支名称
       - main
 
+permissions:
+  contents: write
+
 jobs:
   deploy-gh-pages:
     runs-on: ubuntu-latest
@@ -21,14 +24,14 @@ jobs:
       - name: 安装 pnpm
         uses: pnpm/action-setup@v2
         with:
-          version: 8
           run_install: true
+          version: 8
 
 
       - name: 设置 Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 18
+          node-version: 20
           cache: pnpm
 
 
