@@ -7,7 +7,7 @@ cover: /assets/images/cover3.jpg
 
 ## Hello, this is MengGuyi!
 
-A high school student from Daqing, Heilongjiang, who is about to enter university. An amateur Golang developer and GNU/Linux user. Birthday May 3rd. Nice to meet you.
+A high school student from Daqing, Heilongjiang, who is currently studying at City University of Macau (has suspended studies). An amateur Golang developer and GNU/Linux user. Birthday May 3rd. Nice to meet you.
 
 You can call me 孟古一 古一孟 МЭН ГУИ MengGuyi
 
