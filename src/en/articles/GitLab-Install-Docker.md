@@ -1,5 +1,5 @@
 ---
-cover: /assets/images/GitLab-Install-cover.avif
+cover: /assets/images/GitLab-Install-Docker-1.avif
 title: GitLab EE 17 Docker install and cracking tutorial
 icon: download
 order: 2
