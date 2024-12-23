@@ -43,5 +43,10 @@ projects:
     desc: 古一的 Telegram 频道
     link: https://diary.mengguyi.com/
 
+  - icon: fab fa-github
+    name: Github 加速
+    desc: 加速中国 Github 访问
+    link: https://gh-proxy.mengguyi.com/
+
 footer: <a href="https://icp.gov.moe/?keyword=20230543" target="_blank">萌ICP备20230543号</a>
 ---
