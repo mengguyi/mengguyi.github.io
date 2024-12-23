@@ -38,5 +38,10 @@ projects:
     desc: 移除已购音乐的加密保护
     link: https://unlock-music.mengguyi.com/
 
+  - icon: fab fa-telegram
+    name: TG 频道
+    desc: 古一的 Telegram 频道
+    link: https://diary.mengguyi.com/
+
 footer: <a href="https://icp.gov.moe/?keyword=20230543" target="_blank">萌ICP备20230543号</a>
 ---

@@ -38,5 +38,10 @@ projects:
     desc: Remove encryption from purchased music
     link: https://unlock-music.mengguyi.com/
 
+  - icon: fab fa-telegram
+    name: TG channel
+    desc: Guyi's Telegram channel
+    link: https://diary.mengguyi.com/
+
 footer: <a href="https://icp.gov.moe/?keyword=20230543" target="_blank">萌ICP备20230543号</a>
 ---
