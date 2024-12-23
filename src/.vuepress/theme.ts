@@ -8,7 +8,7 @@ export default hopeTheme({
 
   author: {
     name: "MengGuyi",
-    url: "https://www.mengguyi.com",
+    url: "https://mengguyi.com",
   },
 
   iconAssets: "fontawesome-with-brands",
