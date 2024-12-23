@@ -33,5 +33,10 @@ projects:
     desc: 一些有用的东西
     link: https://drive.mengguyi.com/
 
+  - icon: music
+    name: 音乐解锁
+    desc: 移除已购音乐的加密保护
+    link: https://unlock-music.mengguyi.com/
+
 footer: <a href="https://icp.gov.moe/?keyword=20230543" target="_blank">萌ICP备20230543号</a>
 ---

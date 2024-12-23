@@ -33,5 +33,10 @@ projects:
     desc: Something useful
     link: https://drive.mengguyi.com/
 
+  - icon: music
+    name: Unlock music
+    desc: Remove encryption from purchased music
+    link: https://unlock-music.mengguyi.com/
+
 footer: <a href="https://icp.gov.moe/?keyword=20230543" target="_blank">萌ICP备20230543号</a>
 ---
