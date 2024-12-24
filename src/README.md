@@ -11,7 +11,7 @@ projects:
   - icon: book
     name: 博客主页
     desc: 猫窝
-    link: https://blog.mengguyi.com
+    link: https://blog.mengguyi.com/
 
   - icon: link
     name: 随手贴
@@ -52,6 +52,11 @@ projects:
     name: 古一搜索
     desc: 搜索互联网
     link: https://search.mengguyi.com/
+
+  - icon: cloud
+    name: 服务器状态
+    desc: UptimeFlare
+    link: https://mengguyistatus.com/
 
 footer: <a href="https://icp.gov.moe/?keyword=20230543" target="_blank">萌ICP备20230543号</a>
 ---

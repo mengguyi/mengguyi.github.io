@@ -53,5 +53,10 @@ projects:
     desc: search Internet
     link: https://search.mengguyi.com/
 
+  - icon: cloud
+    name: Server status
+    desc: UptimeFlare
+    link: https://mengguyistatus.com/
+
 footer: <a href="https://icp.gov.moe/?keyword=20230543" target="_blank">萌ICP备20230543号</a>
 ---
