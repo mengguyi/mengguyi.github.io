@@ -48,5 +48,10 @@ projects:
     desc: 加速中国 Github 访问
     link: https://gh-proxy.mengguyi.com/
 
+  - icon: search
+    name: 古一搜索
+    desc: 搜索互联网
+    link: https://search.mengguyi.com/
+
 footer: <a href="https://icp.gov.moe/?keyword=20230543" target="_blank">萌ICP备20230543号</a>
 ---

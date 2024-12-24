@@ -48,5 +48,10 @@ projects:
     desc: Accelerate Github access in China
     link: https://gh-proxy.mengguyi.com/
 
+  - icon: search
+    name: Guyi search
+    desc: search Internet
+    link: https://search.mengguyi.com/
+
 footer: <a href="https://icp.gov.moe/?keyword=20230543" target="_blank">萌ICP备20230543号</a>
 ---
