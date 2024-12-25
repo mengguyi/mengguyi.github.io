@@ -48,11 +48,6 @@ projects:
     desc: Accelerate Github access in China
     link: https://gh-proxy.mengguyi.com/
 
-  - icon: search
-    name: Guyi search
-    desc: search Internet
-    link: https://search.mengguyi.com/
-
   - icon: cloud
     name: Server status
     desc: UptimeFlare

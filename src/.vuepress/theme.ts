@@ -35,7 +35,7 @@ export default hopeTheme({
       GitHub: "https://github.com/mengguyi",
       Gitlab: "https://gitlab.com/mengguyi",
       Gmail: "mailto:mengguyi.mgy@gmail.com",
-      //Instagram: "https://example.com",
+      Instagram: "https://www.instagram.com/mengguyi/",
       //Lark: "https://example.com",
       //Lines: "https://example.com",
       //Linkedin: "https://example.com",

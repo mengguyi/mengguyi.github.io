@@ -1,7 +1,7 @@
 ---
 cover: /assets/images/GitLab-Install-Docker-1.avif
 title: GitLab EE 17 Docker 安装破解教程
-icon: download
+icon: fab fa-gitlab
 order: 2
 category:
   - 使用指南

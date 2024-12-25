@@ -48,11 +48,6 @@ projects:
     desc: 加速中国 Github 访问
     link: https://gh-proxy.mengguyi.com/
 
-  - icon: search
-    name: 古一搜索
-    desc: 搜索互联网
-    link: https://search.mengguyi.com/
-
   - icon: cloud
     name: 服务器状态
     desc: UptimeFlare
