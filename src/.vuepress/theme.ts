@@ -11,8 +11,6 @@ export default hopeTheme({
     url: "https://mengguyi.com",
   },
 
-  iconAssets: "fontawesome-with-brands",
-
   logo: "/logo.png",
 
   repo: "mengguyi/mengguyi.github.io",
@@ -191,6 +189,11 @@ export default hopeTheme({
       components: ["Badge", "VPCard"],
     },
 
+    icon: {
+      assets: "fontawesome-with-brands",
+    },
+
+    slimsearch: true,
     // install @vuepress/plugin-pwa and uncomment these if you want a PWA
     // pwa: {
     //   favicon: "/favicon.ico",
