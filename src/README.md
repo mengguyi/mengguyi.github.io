@@ -53,5 +53,10 @@ projects:
     desc: UptimeFlare
     link: https://mengguyistatus.com/
 
+  - icon: key
+    name: GPG 公钥
+    desc: 孟古一的 GPG 公钥
+    link: https://pubkey.mengguyi.com/
+
 footer: <a href="https://icp.gov.moe/?keyword=20230543" target="_blank">萌ICP备20230543号</a>
 ---
