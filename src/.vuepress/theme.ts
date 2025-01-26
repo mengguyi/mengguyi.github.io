@@ -181,8 +181,8 @@ export default hopeTheme({
     // Note: This is for testing ONLY!
     // You MUST generate and use your own comment service in production.
     comment: {
-      provider: "Waline",
-      serverURL: "https://blog-comment.mengguyi.com",
+      provider: "Twikoo",
+      envId: "https://blog-comment.mengguyi.com",
     },
 
     components: {
