@@ -3,6 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: Blog Home
+bgImage: /assets/images/bgImage.avif
 heroImage: /logo.avif
 heroText: MengGuyi's blog
 tagline: There is no universal justice in the world, only diverse views and stances.

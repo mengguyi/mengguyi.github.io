@@ -3,6 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
+bgImage: /assets/images/bgImage.avif
 heroImage: /logo.avif
 heroText: 孟古一的博客
 heroFullScreen: true
