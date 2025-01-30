@@ -3,7 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: 博客主页
-heroImage: /logo.png
+heroImage: /logo.avif
 heroText: 孟古一的博客
 heroFullScreen: true
 tagline: 世界上没有绝对的正义，只有不同的观点和立场。

@@ -11,7 +11,7 @@ export default hopeTheme({
     url: "https://mengguyi.com",
   },
 
-  logo: "/logo.png",
+  logo: "/logo.avif",
 
   repo: "mengguyi/mengguyi.github.io",
 
