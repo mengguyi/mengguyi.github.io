@@ -66,7 +66,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "GNU/Linux用户｜超业余级的Golang开发者｜18 y.o.｜ 可也以叫我安然或者孟安然 | MTF🏳️‍⚧️ | Nya!",
+        description: "GNU/Linux用户｜超业余级的Golang开发者｜18 y.o.｜可也以叫我安然或者孟安然｜MTF🏳️‍⚧️｜Nya!",
         intro: "/intro.html",
       },
 
