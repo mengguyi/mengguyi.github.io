@@ -23,7 +23,7 @@ export default hopeTheme({
       BiliBili: "https://space.bilibili.com/474814653",
       //Bitbucket: "https://example.com",
       //Dingding: "https://example.com",
-      //Discord: "https://example.com",
+      Discord: "https://discordapp.com/users/895129304252420127",
       //Dribbble: "https://example.com",
       Email: "mailto:i@mengguyi.com",
       //Evernote: "https://example.com",
@@ -76,7 +76,7 @@ export default hopeTheme({
     },
 
     /**
-     * Chinese locale config
+     * English locale config
      */
     "/en/": {
       // navbar
