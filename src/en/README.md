@@ -19,17 +19,17 @@ projects:
     desc: Something written casually
     link: https://blog.mengguyi.com/en/posts/
 
-  - icon: article
+  - icon: fas fa-newspaper
     name: Articles
     desc: Share various articles
     link: https://blog.mengguyi.com/en/articles/
 
-  - icon: friend
+  - icon: fas fa-user-group
     name: Friendly link
     desc: My good buddies
     link: https://blog.mengguyi.com/en/articles/friends.html
 
-  - icon: project
+  - icon: fas fa-hard-drive
     name: MengGuyi's Cloud Drive
     desc: Something useful
     link: https://drive.mengguyi.com/

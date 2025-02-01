@@ -19,17 +19,17 @@ projects:
     desc: 随便写的东西
     link: https://blog.mengguyi.com/posts/
 
-  - icon: article
+  - icon: fas fa-newspaper
     name: 文章
     desc: 分享各种文章
     link: https://blog.mengguyi.com/articles/
 
-  - icon: friend
+  - icon: fas fa-user-group
     name: 友情链接
     desc: 我的好伙伴们
     link: https://blog.mengguyi.com/articles/friends.html
 
-  - icon: project
+  - icon: fas fa-hard-drive
     name: 孟古一的网盘
     desc: 一些有用的东西
     link: https://drive.mengguyi.com/
