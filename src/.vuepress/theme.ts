@@ -102,7 +102,7 @@ export default hopeTheme({
   },
 
   // enable it to preview all changes in time
-  // hotReload: true,
+  hotReload: true,
 
   // These features are enabled for demo, only preserve features you need here
   markdown: {
